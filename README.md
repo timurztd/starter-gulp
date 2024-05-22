@@ -1,4 +1,4 @@
-# push-starter-gulp
+# starter-gulp
 
 ## Installation
 ```bash
